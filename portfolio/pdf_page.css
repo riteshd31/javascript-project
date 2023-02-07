@@ -1,0 +1,158 @@
+.background{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+
+.main{
+    margin-left: 16%;
+    height: 2275px;
+    width: 1000px;
+    background-color: white;
+}
+
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: #69b7ea;
+
+}
+.logo{
+    width: 140px;
+    height: 100px;
+
+}
+h2{
+    color: darkblue;
+    margin-top: -70px;
+    margin-left: 290px;
+}
+p{
+    color: darkblue;
+    margin-top: -4px;
+    margin-left: 350px;
+}
+.time_bar{
+    background: linear-gradient(rgb(0, 0, 0),rgb(14, 97, 157));
+    height: 35px;
+    width: 100%;
+}
+.time_bar img{
+    height: 28px;
+    width: 28px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.time_bar .time{
+    color: white;
+    top: 8px;
+    position: relative;
+    left: 10px;
+
+}
+.data{
+    margin-top: 6px;
+    background-color: white;
+    max-width: 80%;
+
+}
+.data p{
+    margin-left: 0;
+    color: black;
+    font-size: 20px;
+}
+
+.data .call{
+    color: blue;
+    font-size: 15px;
+}
+
+.online_head{
+    font-size: x-large;
+    color: black;
+    margin-top: 19px;
+    left: -60px;
+    position: relative;
+}
+
+.step_bar{
+    background-color: #e6f0f0;
+    height: 40px;
+    width: 98%;
+    margin-left: 10px;
+}
+
+.step_bar p{
+    left: -330px;
+    font-size: 20px;
+    top: 8px;
+    position: relative;
+    color: #40a2ce;
+}
+.pdf img{
+    height: 30px;
+    width: 30px;
+    left: -20px;
+    top: -39px;
+    position: relative;
+
+}
+.pdf p{
+    color: black;
+    margin-right: -300px;
+    margin-top: -75px;
+    
+}
+.pdf{
+    float: right;
+    
+}
+
+iframe{
+    width: 100%;
+    height: 17%;
+}
+
+.note{
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color:#c9d7e2 ;
+    width: 99%;
+    
+
+}
+
+.note p{
+    margin-left: 0;
+
+    color: black;
+    font-size: 18px;
+}
+
+.last{
+    margin-top: 2%;
+     background-color: #e6f0f0;
+}
+.line2{
+    margin-left: 10px;
+    margin-top: -20px;
+    max-width: max-content;
+}
+.up{
+    margin-left: 2%;
+}
+.small{
+    margin-left: 1%;
+}
+.btn{
+margin-top: 5px;
+margin-left: 40%;
+}
+.submit, .back{
+    border: 3px solid black;
+    height: 30px;
+    background: linear-gradient(#f6fafd, #6a818f);
+    
+}
+

@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.background{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+
+.main{
+    margin-left: 16%;
+    height: 2720px;
+    width: 1000px;
+    background-color: white;
+}
+
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: #69b7ea;
+
+}
+.logo{
+    width: 140px;
+    height: 100px;
+    margin-top: -20px;
+
+}
+h2{
+    color: darkblue;
+    margin-top: -70px;
+    margin-left: 290px;
+}
+p{
+    color: darkblue;
+    margin-top: -4px;
+    margin-left: 350px;
+}
+.time_bar{
+    background: linear-gradient(rgb(0, 0, 0),rgb(14, 97, 157));
+    height: 35px;
+    width: 100%;
+}
+.time_bar img{
+    height: 28px;
+    width: 28px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.time_bar .time{
+    color: white;
+    top: 8px;
+    position: relative;
+    left: 10px;
+
+}
+.social{
+  top: -18px;
+  position: relative;
+}
+.btn{
+  margin-top: 5px;
+  margin-left: 40%;
+  }
+  .submit, .back{
+      border: 3px solid black;
+      height: 30px;
+      width: 80px;
+      background: linear-gradient(#f6fafd, #6a818f);
+      
+  }
+  
+
+.fee_1_3{
+    background-color: rgba(174, 238, 176, 0.553);
+    border: 1px solid black;
+
+}
+
+
+
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #customers td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #b2d6ef;}
+  
+  #customers tr:hover {background-color: #ddd;}
+
+  .form{
+    width: 98%;
+    margin: auto;
+  }
+
+  .form_ques{
+    width: 400px;
+    font-size: 15px;
+  }
+  
+  .mandatory{
+    float: right;
+    margin-top: 25px;
+    font-size: 18px;
+  }
+  
+.form{
+    margin-top: 50px;
+}
+
+  .form_head {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: left;
+    background-color: rgb(14, 97, 157);
+    color: white;
+  }
+
+  .captcha_section{
+    text-align: center;
+    width: 100%;
+    height: 150px;
+    background-color: #b2d6ef;
+  }
+  .captcha_section h5,img{
+    font-size: 15px;
+    padding-top: 15px
+  }
+  
